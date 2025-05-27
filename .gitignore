@@ -9,7 +9,6 @@
 *.xlsm
 
 # Optional: ignore actual data files if they contain private info
-data/*.xlsx
 data/*.csv
 
 # Custom visuals (optional to ignore if you don’t want to commit them)
