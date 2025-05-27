@@ -5,7 +5,7 @@ This Power BI report helps calculate and analyze monthly salary, bonuses, taxes,
 ---
 
 ## 📁 Folder Structure
-
+```plaintext
 powerbi-salary-calculator/
 ├── README.md # Project overview and instructions
 ├── LICENSE # License file (MIT recommended)
@@ -16,7 +16,7 @@ powerbi-salary-calculator/
 
 ├── data/ # Excel data sources (must be added locally)
 │ └── sheema.xlsx # NOT included—must be added by the user
-
+```
 ---
 
 ## ✨ Features
