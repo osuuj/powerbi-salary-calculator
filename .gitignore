@@ -1,0 +1,24 @@
+# Power BI temporary and backup files
+*.pbix~*
+*.tmp
+*.bak
+
+# Excel autosave and temp files
+~$*.xlsx
+*.xlsb
+*.xlsm
+
+# Optional: ignore actual data files if they contain private info
+data/*.xlsx
+data/*.csv
+
+# Custom visuals (optional to ignore if you don’t want to commit them)
+*.pbiviz
+
+# OS-generated files
+.DS_Store         # macOS
+Thumbs.db         # Windows
+
+# VS Code and common IDE folders
+.vscode/
+.idea/
